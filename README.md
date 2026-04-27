@@ -1,0 +1,1 @@
+# An-lise-e-Simula-o-de-Ransomware---Refatora-o-de-Sistema-de-Backup-Criptografado
